@@ -1,0 +1,14 @@
+The POST address is
+
+http://IP/api/v1/callctrl/dial
+
+
+The json code is
+{
+ "data":
+ {
+ "Dest": "850385020.1111249528@t.plcm.vc",
+ "Line": "2",
+ "Type": "TEL"
+ }
+}
